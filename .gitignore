@@ -1,0 +1,15 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs/ProjectEvaluation/server.metadata.v5.2
+/.vs/ProjectEvaluation/server.projects.v5.2
+/.vs/server/DesignTimeBuild/.dtbcache.v2
+/.vs/server/v17/.futdcache.v2
+/.vs/server/v17/.suo
+/server/bin/Debug/net7.0/server.dll
+/server/bin/Debug/net7.0/server.pdb
+/server/obj/Debug/net7.0/server.csproj.FileListAbsolute.txt
+/server/obj/Debug/net7.0/server.dll
+/server/obj/Debug/net7.0/server.genruntimeconfig.cache
+/server/obj/Debug/net7.0/server.pdb
