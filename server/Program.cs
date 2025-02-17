@@ -6,7 +6,7 @@ using System.Threading;
 
 class TcpServer
 {
-    private const int Port = 5000;
+    private const int Port = 3000;
     private static readonly object _lock = new object();
 
     static void Main(string[] args)
@@ -65,7 +65,7 @@ class TcpServer
         switch (request.Trim().ToUpper())
         {
             case "GET_TEMP":
-                return "Temperature: 25.3°C";
+                return "Temperature: 24°C";
             case "GET_STATUS":
                 return "Status: Active";
             default:

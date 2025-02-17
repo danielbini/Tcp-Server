@@ -13,3 +13,5 @@
 /server/obj/Debug/net7.0/server.dll
 /server/obj/Debug/net7.0/server.genruntimeconfig.cache
 /server/obj/Debug/net7.0/server.pdb
+/.vs/server/FileContentIndex/627c96dd-5198-49ce-8bdc-475cdb1e6821.vsidx
+*.vsidx
